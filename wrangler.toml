@@ -1,4 +1,4 @@
-name = "hello-python"
+name = "cf-python-test"
 main = "entry.py"
 compatibility_flags = ["python_workers"]
-compatibility_date = "2024-06-02"
+compatibility_date = "2024-06-01"
