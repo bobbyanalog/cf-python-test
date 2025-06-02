@@ -1,0 +1,4 @@
+name = "hello-python"
+main = "entry.py"
+compatibility_flags = ["python_workers"]
+compatibility_date = "2025-06-02"
